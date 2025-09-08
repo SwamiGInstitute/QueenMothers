@@ -1,5 +1,4 @@
 # QueenMothers-Ileke/Warriors 2025
-<!DOCTYPE html>
 <html lang="en">
   <head>
   <meta charset="utf-8" />
@@ -166,10 +165,6 @@ SwamiG
 <br />    
 <br />    
 <br />  
-
-
-
   </body>
  <div align="right"> ©2025 SwamiG Institute</div>
-
 </html>
